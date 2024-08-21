@@ -29,7 +29,6 @@ import { FaRegPaperPlane } from "react-icons/fa";
 import { MdOutlineNotificationsActive } from "react-icons/md";
 import { FaCode } from "react-icons/fa6";
 import { IoSettingsOutline } from "react-icons/io5";
-import { IoIosArrowForward } from "react-icons/io";
 
 const panels = {
   "ai-panel": [
