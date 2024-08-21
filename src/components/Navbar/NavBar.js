@@ -6,7 +6,7 @@ import User from "./User";
 
 export default function Header() {
   return (
-    <div className="nav-bar bg-white rounded-border">
+    <div className="nav-bar bg-white rounded-border flex-box box-shadow-8">
       <div className="nav-bar-right">Welcome, John Doe👋</div>
       <div className="nav-bar-left">
         <Options />
