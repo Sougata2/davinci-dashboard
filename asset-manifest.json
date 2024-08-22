@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/davinci-dashboard/static/css/main.e79aa1bd.css",
+    "main.js": "/davinci-dashboard/static/js/main.20236f9c.js",
+    "index.html": "/davinci-dashboard/index.html",
+    "main.e79aa1bd.css.map": "/davinci-dashboard/static/css/main.e79aa1bd.css.map",
+    "main.20236f9c.js.map": "/davinci-dashboard/static/js/main.20236f9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e79aa1bd.css",
+    "static/js/main.20236f9c.js"
+  ]
+}
