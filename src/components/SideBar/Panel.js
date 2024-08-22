@@ -10,7 +10,7 @@ function Panel({ title, panelItems }) {
       <div className="panel-title">{styledTitle}</div>
       <div className="panel-items rounded-border box-shadow-8">
         {panelItems.map((panelItem) => (
-          <div className="panel-item rounded-border">
+          <div className="panel-item rounded-border" key={panelItem[1]}>
             <div className="panel-item-icon">{panelItem[0]}</div>
             <div className="panel-item-title">{panelItem[1]}</div>
             <div className="panel-item-expandable">
