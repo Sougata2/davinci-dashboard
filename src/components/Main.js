@@ -1,3 +1,9 @@
+import Stats from "./Stats/Stats";
+
 export default function Main() {
-    return <div>Main</div>
+  return (
+    <div className="main">
+      <Stats />
+    </div>
+  );
 }
