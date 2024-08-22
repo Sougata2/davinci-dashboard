@@ -1,3 +1,4 @@
+import Graph from "./Graph/Graph";
 import Info from "./Info/Info";
 import Stats from "./Stats/Stats";
 
@@ -6,6 +7,7 @@ export default function Main() {
     <div className="main">
       <Stats />
       <Info />
+      <Graph />
     </div>
   );
 }
